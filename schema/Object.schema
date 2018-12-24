@@ -1,0 +1,6 @@
+package gdk_test.generated;
+
+component Object {
+	id = 101;
+	string message = 1;
+}
